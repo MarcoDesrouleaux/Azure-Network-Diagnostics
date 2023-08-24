@@ -62,17 +62,9 @@ This guide demonstrates how to connect two virtual machines (VMs) together withi
 4. The 2nd Virtual Machine is now created.
 <img src="https://i.imgur.com/W2RK5vs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-## Step 3: Configuring Networking Between VMs
-
-### 3.1 Creating Virtual Network
-1. In Azure portal, navigate to 'Virtual networks' > 'Add.'
-2. Configure the virtual network settings, ensuring it matches the virtual network of the VMs.
-3. Click 'Create.'
-
-### 3.2 Configuring Subnets
-1. Within the virtual network, navigate to 'Subnets' > 'Add.'
-2. Configure the subnet settings to enable communication between the VMs.
-3. Click 'Create.'
+## Step 3: Configuring Networking Between VMs (We will use Remote Desktop for Windows) 
+## Side Note: MacOS Users have to download the "Microsoft Remote Desktop" on the App Store.
+<img src="https://i.imgur.com/DefN6Ca.png"/>
 
 ### 3.3 Connecting VMs
 1. In the virtual network settings, navigate to 'Peerings.'
