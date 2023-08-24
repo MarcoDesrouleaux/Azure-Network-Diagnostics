@@ -46,7 +46,7 @@ This guide demonstrates how to connect two virtual machines (VMs) together withi
 
 ### 2.2 Provide Basic Information for the Disks page
 1. Leave the page as is.
-<img src="https://i.imgur.com/dH02jbP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iLT6u9s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 ### 2.3 Provide Basic Information for the Networking page
 1. Verify the public and private IP Addresses then leave the page as is.
