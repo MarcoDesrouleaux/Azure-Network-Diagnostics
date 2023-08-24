@@ -59,7 +59,7 @@ This guide demonstrates how to connect two virtual machines (VMs) together withi
 <img src="https://i.imgur.com/s8Y5l1Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 3. Search and click on "Virtual Machines" from the search bar to look for the VM you created.
 <img src="https://i.imgur.com/3HLNBB6.png" width="80%" alt="Disk Sanitization Steps"/>
-4. The Virtual machine is now created.
+4. The 2nd Virtual Machine is now created.
 <img src="https://i.imgur.com/W2RK5vs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 ## Step 3: Configuring Networking Between VMs
