@@ -53,11 +53,13 @@ This guide demonstrates how to connect two virtual machines (VMs) together withi
 <img src="https://i.imgur.com/Xg5EZXc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 ### 2.4 Review & Create a Virtual Machine
-1. Once it starts validating the information to see if everything is clear, you will see "Your deployment is complete". That is when your virtual machine will be created.
-<img src="https://i.imgur.com/qnYPKTM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-2. Search and click on "Virtual Machines" from the search bar to look for the VM you created.
-<img src="https://i.imgur.com/MdXKfgO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-3. The Virtual machine is now created.
+1. Once it starts validating the information to see if everything is clear, you will see "Validation Passed" on the left side of the screen. Then you can proceed to create the virtual machine.
+<img src="https://i.imgur.com/vOe7RQS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+2. Once you click the "Create button", you will see "Your deployment is complete". That is when your virtual machine will be created.
+<img src="https://i.imgur.com/s8Y5l1Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+3. Search and click on "Virtual Machines" from the search bar to look for the VM you created.
+<img src="https://i.imgur.com/3HLNBB6.png" width="80%" alt="Disk Sanitization Steps"/>
+4. The Virtual machine is now created.
 <img src="https://i.imgur.com/Rc8GLM8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 ## Step 3: Configuring Networking Between VMs
