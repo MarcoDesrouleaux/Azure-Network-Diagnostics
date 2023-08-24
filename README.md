@@ -28,19 +28,18 @@ This guide demonstrates how to connect two virtual machines (VMs) together withi
 ## Instance details
 3. Enter a name for your virtual machine. For this example: We will name it "VM2".
 4. Choose a region closest to your location. For this example: We will select "(US) North Central US".
-5. Choose the Virtual Machine Image. For the example: We will select "Windows 10 Pro, version 22H2 - x64 Gen2".
+5. Choose the Virtual Machine Image. For the example: We will select "Ubuntu Server 20.04 LTS - x64 Gen2".
 6.  Select the desired 'Size' for your virtual machine. For the example: We will select "Standard_E2s_v3 - 2 vcpus, 16 GiB memory ($91.98/month)".
 ## Administrator account
-7. Create "Username, Password, then confirm password".
-## Licensing
-8. Scroll down and check the box that says "I confirm I have an eligible Windows 10/11 license with multi-tenant hosting rights" before you click on "Next: Disks".
+7. Select "Password" instead of using SSH public key.
+8. For the 2nd virtual machine: Use the same "Username & Password" you used for the 1st virtual machine you created. (If you forget the password, you will have to delete and create another VM.)
 <table>
 <tr>
 <td>
 <img src="https://i.imgur.com/2Whx8Eu.png" alt="Image 1 Description" width="100%"/>
 </td>
 <td>
-<img src="https://i.imgur.com/x0pvnVE.png" alt="Disk Sanitization Steps" width="100%"/>
+<img src="https://i.imgur.com/yyJH46c.png" alt="Disk Sanitization Steps" width="100%"/>
 </td>
 </tr>
 </table>
