@@ -7,11 +7,18 @@ This guide demonstrates how to connect two virtual machines (VMs) together withi
 - An active Microsoft Azure account
 - Basic understanding of virtual machines and networking
 
-## Step 1: Setting Up the First Virtual Machine
-1. Log in to your Azure portal.
-2. Navigate to 'Create a resource' > 'Compute' > 'Virtual Machine.'
-3. Configure the VM settings as required, including the virtual network and subnet.
-4. Click 'Create' to deploy the VM.
+## Step 1: Sign in to Azure Portal
+1. Open your browser and navigate to [Azure Portal](https://portal.azure.com).
+2. Enter your email address and password to sign in.
+<img src="https://i.imgur.com/ExNiOVz.png"/>
+
+## Step 2: Setting Up the First Virtual Machine
+1. Create a resource group.
+<img src="https://i.imgur.com/DZiwlcD.png"/>
+2. Create your first virtual machine after creating the resource group.
+<img src="https://i.imgur.com/0TPmNH6.png"/>
+3. Your first virtual machine is now created.
+<img src="https://i.imgur.com/Rc8GLM8.png"/>
 
 ## Step 2: Setting Up the Second Virtual Machine
 1. Repeat the process for the first VM.
