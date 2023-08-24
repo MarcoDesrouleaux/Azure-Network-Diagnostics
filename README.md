@@ -23,8 +23,8 @@ This guide demonstrates how to connect two virtual machines (VMs) together withi
 ## Step 2: Setting Up the Second Virtual Machine
 ### 2.1 Provide Basic Information for the Basics page
 ## Project details 
-1. Select the appropriate 'Subscription.'
-2. Create or select an existing 'Resource Group.'
+1. Select the appropriate Subscription.
+2. Create or select an existing 'Resource Group. For this example: we will select "Azure-Lab-1".
 ## Instance details
 3. Enter a name for your virtual machine. For this example: We will name it "VM2".
 4. Choose a region closest to your location. For this example: We will select "(US) North Central US".
