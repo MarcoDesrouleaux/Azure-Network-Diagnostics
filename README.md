@@ -67,6 +67,25 @@ This guide demonstrates how to connect two virtual machines (VMs) together withi
 <img src="https://i.imgur.com/DefN6Ca.png"/>
 
 ### 3.3 Connecting VMs
+1. On the Virtual Machines page, click on VM1.
+<img src="https://i.imgur.com/fG3ViG9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+2. Once you open VM1, copy the Public IP address on the right side of the page. For this example: We will copy "20.88.18.59" from the page.
+<img src="https://i.imgur.com/VseLPOC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+3. Once copied, click on the start menu and look for "Remote Desktop Connection" and open it.
+4. Paste it on where it says "Computer" then click the "Connect button".
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/2Whx8Eu.png" alt="Image 1 Description" width="100%"/>
+</td>
+<td>
+<img src="https://i.imgur.com/yyJH46c.png" alt="Disk Sanitization Steps" width="100%"/>
+</td>
+</tr>
+</table>
+
+
+
 1. In the virtual network settings, navigate to 'Peerings.'
 2. Configure the peering settings to connect the two VMs.
 3. Validate the connection between the VMs.
