@@ -49,8 +49,8 @@ This guide demonstrates how to connect two virtual machines (VMs) together withi
 <img src="https://i.imgur.com/iLT6u9s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 ### 2.3 Provide Basic Information for the Networking page
-1. Verify the public and private IP Addresses then leave the page as is.
-<img src="https://i.imgur.com/A3JyALs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+1. Verify the Networking page then leave as is.
+<img src="https://i.imgur.com/Xg5EZXc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 ### 2.4 Review & Create a Virtual Machine
 1. Once it starts validating the information to see if everything is clear, you will see "Your deployment is complete". That is when your virtual machine will be created.
