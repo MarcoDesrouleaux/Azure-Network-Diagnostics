@@ -99,6 +99,8 @@ This guide demonstrates how to connect two virtual machines (VMs) together withi
 <img src="https://i.imgur.com/vvJlY2o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br>8. After the page finishes to load, set the privacy settings the way you want. Then press the "Accept" button to continue.
 <img src="https://i.imgur.com/KU12aOq.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br>9. Now VM1 is running on our host computer.
+<img src="https://i.imgur.com/ig5KLE1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 ## Step 4: Testing the Connection
 1. Connect to the first VM through SSH or Remote Desktop.
