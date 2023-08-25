@@ -106,9 +106,10 @@ This guide demonstrates how to connect two virtual machines (VMs) together withi
 In order to PING or test the connection between VM1 and VM2. We must know the IP address for it.
 <br>1. On the Virtual Machines page, click on VM2.
 <img src="https://i.imgur.com/tKUPoKL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br>2. Once you open VM2, copy the Private IP address on the right side of the page. For this example: We will copy "10.0.0.5" from the page to ping it.
+<br>2. Once you open VM2, copy the Private IP address on the right side of the page. For this example: We will copy "10.0.0.5" from the page.
 <img src="https://i.imgur.com/U0cmROy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br>3. Once copied, click on the start menu to look for "Remote Desktop Connection" and open it.
+<br>3. Once copied, click on the start menu in VM1 to look for "Windows PowerShell" and open it.
+<img src="https://i.imgur.com/W7CKDmP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br>4. Paste it on where it says "Computer" then click the "Connect button".
 
 ## Conclusion
