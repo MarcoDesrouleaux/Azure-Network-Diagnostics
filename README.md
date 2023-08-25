@@ -83,6 +83,18 @@ This guide demonstrates how to connect two virtual machines (VMs) together withi
 </td>
 </tr>
 </table>
+<br>5. Enter the credentials you used when you created VM1.
+<br>6. For this example: We will use the username "Azureuser" with the password I chose earlier to create VM1.
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/q0odoQf.png" alt="Image 1 Description" width="100%"/>
+</td>
+<td>
+<img src="https://i.imgur.com/fr0L1Q7.png" alt="Image 1 Description" width="100%"/>
+</td>
+</tr>
+</table>
 
 ## Step 4: Testing the Connection
 1. Connect to the first VM through SSH or Remote Desktop.
