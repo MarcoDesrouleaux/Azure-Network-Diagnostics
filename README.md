@@ -1,8 +1,8 @@
 # Virtual Machine Network Reachability Project
 
 ## Introduction
-This guide demonstrates how to connect two virtual machines (VMs) together within Microsoft Azure. By following this tutorial, you'll learn to create and connect VMs, enabling secure communication between them.
-
+ This project guides you through a simple and straightforward process to test network connectivity between two virtual machines on Microsoft Azure. 
+ 
 ## Prerequisites
 - An active Microsoft Azure account
 - Basic understanding of virtual machines and networking
@@ -124,9 +124,12 @@ In order to PING or test the connection between VM1 and VM2. We must know the IP
 <br>5. Once you press enter and if there are 0 packets lost it means that all the messages sent from one computer (or VM) to another were successfully received. This is a good indication that the network connection between the two is stable and reliable, without any loss of data. 
 <img src="https://i.imgur.com/Oehxe6d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-
 ## Conclusion
 You have successfully connected two virtual machines together in Microsoft Azure. This setup allows for secure communication between VMs and serves as a foundation for more complex networking scenarios.
+
+You have successfully completed the Azure Virtual Machine Connectivity Test guide. You've learned how to test connectivity between two virtual machines on Microsoft Azure. Keep exploring and happy networking!
+
+
 
 ## References
 - [Microsoft Azure Virtual Networking Documentation](link-to-documentation)
