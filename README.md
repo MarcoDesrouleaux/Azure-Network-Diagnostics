@@ -126,6 +126,3 @@ In order to PING or test the connection between VM1 and VM2. We must know the IP
 
 ## Conclusion
 You have successfully tested the connectivity between two virtual machines in Microsoft Azure. This exercise ensures that the communication between VMs is working as expected, serving as a foundational step for more intricate networking scenarios.
-
-## References
-- [Microsoft Azure Virtual Networking Documentation](link-to-documentation)
