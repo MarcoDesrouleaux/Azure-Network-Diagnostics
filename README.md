@@ -97,6 +97,7 @@ This guide demonstrates how to connect two virtual machines (VMs) together withi
 </table>
 <br>7. Click the "Yes" button to continue.
 <img src="https://i.imgur.com/vvJlY2o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KU12aOq.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 ## Step 4: Testing the Connection
 1. Connect to the first VM through SSH or Remote Desktop.
