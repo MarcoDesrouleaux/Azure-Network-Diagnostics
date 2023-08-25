@@ -1,4 +1,4 @@
-# How to Connect 2 Virtual Machines Together Using Microsoft Azure
+# VM Network Reachability Project
 
 ## Introduction
 This guide demonstrates how to connect two virtual machines (VMs) together within Microsoft Azure. By following this tutorial, you'll learn to create and connect VMs, enabling secure communication between them.
@@ -120,7 +120,7 @@ In order to PING or test the connection between VM1 and VM2. We must know the IP
 </tr>
 </table>
 <br>4. On Windows PowerShell, type "ping 10.0.0.5".
-<img src="https://i.imgur.com/Q76Rogt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YaAMZfZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br>5. Once you press enter and if there are 0 packets lost it means that all the messages sent from one computer (or VM) to another were successfully received. This is a good indication that the network connection between the two is stable and reliable, without any loss of data. 
 <img src="https://i.imgur.com/Oehxe6d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
