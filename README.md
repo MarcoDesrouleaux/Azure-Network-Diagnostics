@@ -66,7 +66,7 @@ This guide demonstrates how to connect two virtual machines (VMs) together withi
 ## Side Note: MacOS Users have to download the "Microsoft Remote Desktop" on the App Store.
 <img src="https://i.imgur.com/DefN6Ca.png"/>
 
-### 3.3 Connecting VMs
+### 3.3 Connecting VMs to Host Computer
 <br>1. On the Virtual Machines page, click on VM1.
 <img src="https://i.imgur.com/fG3ViG9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br>2. Once you open VM1, copy the Public IP address on the right side of the page. For this example: We will copy "20.88.18.59" from the page.
@@ -103,8 +103,13 @@ This guide demonstrates how to connect two virtual machines (VMs) together withi
 <img src="https://i.imgur.com/ig5KLE1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 ## Step 4: Testing the Connection
-1. Connect to the first VM through SSH or Remote Desktop.
-2. Use `ping` or other networking tools to test the connection to the second VM.
+In order to PING or test the connection between VM1 and VM2. We must know the IP address for it.
+<br>1. On the Virtual Machines page, click on VM2.
+<img src="https://i.imgur.com/tKUPoKL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br>2. Once you open VM2, copy the Public IP address on the right side of the page. For this example: We will copy "20.88.18.59" from the page.
+<img src="https://i.imgur.com/VseLPOC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br>3. Once copied, click on the start menu and look for "Remote Desktop Connection" and open it.
+<br>4. Paste it on where it says "Computer" then click the "Connect button".
 
 ## Conclusion
 You have successfully connected two virtual machines together in Microsoft Azure. This setup allows for secure communication between VMs and serves as a foundation for more complex networking scenarios.
