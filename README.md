@@ -1,4 +1,4 @@
-# VM Network Reachability Project
+# Virtual Machine Network Reachability Project
 
 ## Introduction
 This guide demonstrates how to connect two virtual machines (VMs) together within Microsoft Azure. By following this tutorial, you'll learn to create and connect VMs, enabling secure communication between them.
