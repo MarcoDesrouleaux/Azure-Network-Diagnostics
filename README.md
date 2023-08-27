@@ -124,7 +124,7 @@ In order to PING or test the connection between VM1 and VM2. We must know the IP
 <br>4. On Windows PowerShell, type "ping 10.0.0.5".
 <img src="https://i.imgur.com/YaAMZfZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br>5. Once you press enter and if there are 0 packets lost it means that all the messages sent from one computer (or VM) to another were successfully received. This is a good indication that the network connection between the two is stable and reliable, without any loss of data. 
-<img src="https://i.imgur.com/Oehxe6d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EEvLPEl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 ## Conclusion
 You have successfully tested the connectivity between two virtual machines in Microsoft Azure. This exercise ensures that the communication between VMs is working as expected, serving as a foundational step for more intricate networking scenarios.
